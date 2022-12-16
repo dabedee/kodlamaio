@@ -21,6 +21,14 @@ namespace OOP1
             productManager.Add(product1);
             productManager.Update(product1);
 
+            /*
+             * int double bool değer tip 
+             * diziler class abstract class interface referans tip 
+             */
+
+            productManager.SayiTopla2(4, 5);
+            int toplamaSonucu = productManager.SayiTopla(5, 4);
+            Console.WriteLine(toplamaSonucu*10);
             
 
 
