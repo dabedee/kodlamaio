@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace OOP2
 {
-     class Musteri
+     class CustomerManager
     {
-        public int Id { get; set; }
-        public string MusteriNo { get; set; }
+        public void Add(Musteri musteri)
+        {
 
-
-
-
-
+        }
     }
 }
