@@ -4,14 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OOP2
+namespace OOP3
 {
-     class Musteri
+    internal interface ILoggerService
     {
-        public int Id { get; set; }
-        public string MusteriNo { get; set; }
-
-
+        void Log();
 
     }
 }
