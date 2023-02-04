@@ -13,6 +13,7 @@ namespace GameProjectt
             GamerManager gamerManager = new GamerManager(new UserValidationManager());
             gamerManager.Add(new Gamer { Id = 1, BirthYear = 1985, FirstName = "eda", LastName = "demir", IdentityNumber = 12345 });
             Console.ReadLine();
+            
         }
     }
 }
