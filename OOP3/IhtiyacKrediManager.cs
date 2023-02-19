@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP3
 {
-    internal class IhtiyacKrediManager : IKrediManager
+     class IhtiyacKrediManager : IKrediManager
     {
         public void Hesapla()
         {
