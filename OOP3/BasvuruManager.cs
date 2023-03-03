@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP3
 {
-    internal class BasvuruManager
+     class BasvuruManager
     {
         public void BasvuruYap(IKrediManager krediManager,List<ILoggerService> loggerServices)
         {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP3
 {
-    internal class DatabaseLoggerService : ILoggerService
+     class DatabaseLoggerService : ILoggerService
     {
         public void Log()
         {

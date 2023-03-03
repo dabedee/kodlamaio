@@ -2,7 +2,7 @@
 
 namespace OOP3
 {
-    internal class FileLoggerService : ILoggerService
+     class FileLoggerService : ILoggerService
     {
         public void Log()
         {
